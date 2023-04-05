@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>FiftyGames</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<header>
+<nav>
+<a href="/">Главная</a>
+<a href="/projects">Наши проекты</a>
+</nav>
+</header>
+<main>
+<section id="project-list">
+<h2>Проекты</h2>
+<ul>
+<li>
+<h3>Проект 1</h3>
+<p>Краткое описание проекта 1.</p>
+<a href="/project/project1.html">Подробнее</a>
+</li>
+<li>
+<h3>Проект 2</h3>
+<p>Краткое описание проекта 2.</p>
+<a href="/project/project2.html">Подробнее</a>
+</li>
+<li>
+            <h3>Проект 3</h3>
+            <p>Краткое описание проекта 3.</p>
+            <a href="/project/project3.html">Подробнее</a>
+          </li>
+          <li>
+            <h3>Проект 4</h3>
+            <p>Краткое описание проекта 4.</p>
+            <a href="/project/project4.html">Подробнее</a>
+          </li>
+          <li>
+            <h3>Проект 5</h3>
+            <p>Краткое описание проекта 5.</p>
+            <a href="/project/project5.html">Подробнее</a>
+          </li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; FiftyGames, 2023</p>
+    </footer>
+  </body>
+
+</html>
